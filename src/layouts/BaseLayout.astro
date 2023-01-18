@@ -1,0 +1,40 @@
+---
+import Seo from "../components/Seo.svelte";
+const { title } = Astro.props;
+const { theme } = Astro.props;
+import process from "node:process";
+---
+
+<html lang="en" data-theme={theme}>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link
+            rel="icon"
+            type="image/x-icon"
+            href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text x='0' y='14'>🌠</text></svg>"
+        />
+        <link rel="stylesheet" href={Astro.resolve("../styles/global.css")} />
+        <Seo title={`WashU Comparative Epigenome Browser`} desc={`Compare Genomes`} img={Astro.site + "card.jpg"} />
+        <!-- {false && process.env.npm_lifecycle_event === "build" &&
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXX" crossorigin="anonymous"></script>
+    } -->
+        <!-- {process.env.npm_lifecycle_event === "build" &&
+      <script async src="https://www.googletagmanager.com/gtag/js?id=XXXXXXXX"></script>
+    }
+    {process.env.npm_lifecycle_event === "build" &&
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'XXXXXX');
+      </script>
+    } -->
+        <link href="https://fonts.googleapis.com/css2?family=Kalam:wght@700&display=swap" rel="stylesheet" />
+        <!-- <script src="https://d3js.org/d3.v7.min.js"></script> -->
+    </head>
+    <body>
+        <slot />
+    </body>
+</html>

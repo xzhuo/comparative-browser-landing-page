@@ -1,0 +1,39 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Tree from "../components/Tree.svelte";
+import Header from "../components/Header.svelte";
+import Footer from "../components/Footer.svelte";
+---
+
+<BaseLayout title="Team" theme="">
+    <Header
+        title="WashU Comparative Epigenome Browser"
+        links={[
+            {
+                label: "Home",
+                href: "/",
+            },
+            {
+                label: "Showcases",
+                href: "/showcases",
+            },
+            {
+                label: "Documentation",
+                href: "/documentation",
+            },
+            // {
+            //   label: "Team",
+            //   href: "/team"
+            // },
+            // {
+            //   label: "How to cite",
+            //   href: "/cite"
+            // }
+        ]}
+    />
+    <div class="h-screen bg-white text-gray-800">
+        <Tree />
+    </div>
+
+    <Footer title="WashU Comparative Epigenome Browser" contact="yunkzo@gmail.com" />
+</BaseLayout>

@@ -1,0 +1,40 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+import Hero from "../components/Hero.svelte";
+import Header from "../components/Header.svelte";
+import Footer from "../components/Footer.svelte";
+---
+
+<BaseLayout title="WashU Comparative Epigenome Browser" theme="synthwave">
+    <header class="md:p-5 lg:p-20 bg-cover min-h-[50vh] bg-bottom" style="background-image: url(/screenshot.svg);">
+        <Header
+            title=""
+            links={[
+                // {
+                //     label: "Get Started",
+                //     href: "/start",
+                // },
+                {
+                    label: "Documentation",
+                    href: "/documentation",
+                },
+                // {
+                //     label: "Team",
+                //     href: "/team",
+                // },
+                // {
+                //     label: "How to cite",
+                //     href: "/cite",
+                // },
+            ]}
+        />
+
+        <Hero client:load title="WashU Comparative" desc="Epigenome Browser" />
+    </header>
+    <div style="display:flex; position:absolute; top: 50%; width: 100%; justify-content: space-around;">
+        <button type="button"><a href="/start">select genomes</a></button>
+        <button type="button"><a href="/showcases">showcases</a></button>
+    </div>
+    <Footer title="WashU Comparative Epigenome Browser" contact="yunkzo@gmail.com" />
+</BaseLayout>

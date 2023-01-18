@@ -1,0 +1,33 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Team from "../components/Team.svelte";
+import Header from "../components/Header.svelte";
+import Footer from "../components/Footer.svelte";
+---
+
+<BaseLayout title="Team" theme="">
+    <Header
+        title="WashU Comparative Epigenome Browser"
+        links={[
+            {
+                label: "Home",
+                href: "/",
+            },
+            {
+                label: "Documentation",
+                href: "/documentation",
+            },
+            {
+                label: "Team",
+                href: "/team",
+            },
+            {
+                label: "How to cite",
+                href: "/cite",
+            },
+        ]}
+    />
+
+    <Team />
+    <Footer title="WashU Comparative Epigenome Browser" contact="yunkzo@gmail.com" />
+</BaseLayout>
