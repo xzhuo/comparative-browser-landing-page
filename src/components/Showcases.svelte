@@ -62,7 +62,7 @@
                                             <a
                                                 href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5a.session.json"
                                                 target="_blank"
-                                                >human SVA_F insertion associated with potential human specific enhancer</a
+                                                >Human SVA_F insertion associated with potential human specific enhancer</a
                                             >
                                             <br />
                                             From: Zhuo, Xiaoyu, Alan Y Du, Erica C Pehrsson, Daofeng Li, and Ting Wang. "Epigenomic
@@ -73,7 +73,7 @@
                                             <a
                                                 href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5b.session.json"
                                                 target="_blank"
-                                                >human-marmoset comparison: HERVH insertion in human associated with new
+                                                >Human-marmoset comparison: HERVH insertion in human associated with new
                                                 TAD boundary</a
                                             >
                                             <br />
