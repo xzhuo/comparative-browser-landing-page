@@ -30,7 +30,7 @@
                                             >
                                             <br />
                                             From ENCODE Project Consortium. “An Integrated Encyclopedia of DNA Elements in the Human Genome.”
-                                            Nature 489, no. 7414 (September 2012): 57–74. https://doi.org/10.1038/nature11247.
+                                            Nature 489, no. 7414 (September 2012): 57–74. https://doi.org/10.1038/nature11247 
                                             and Yue, Feng, Yong Cheng, Alessandra Breschi, Jeff Vierstra, Weisheng Wu, Tyrone Ryba,
                                             Richard Sandstrom, et al. “A Comparative Encyclopedia of DNA Elements in the Mouse Genome.”
                                             Nature 515, no. 7527 (November 2014): 355–64. https://doi.org/10.1038/nature13992.
