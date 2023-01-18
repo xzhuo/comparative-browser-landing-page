@@ -13,6 +13,53 @@
                                     <ol>
                                         <li>
                                             <a
+                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig3a.session.json"
+                                                target="_blank"
+                                                >Deep conservation of CpG methylation of HOX gene cluster between zebrafish and mouse</a
+                                            >
+                                            <br />
+                                            From Zhang, Chi, Yujin Hoshida, and Kirsten C. Sadler. “Comparative Epigenomic Profiling
+                                            of the DNA Methylome in Mouse and Zebrafish Uncovers High Interspecies Divergence.”
+                                            Frontiers in Genetics 7 (June 17, 2016). https://doi.org/10.3389/fgene.2016.00110.
+                                        </li>
+                                        <li>
+                                            <a
+                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig3b.session.json"
+                                                target="_blank"
+                                                >Conserved epigenomic landscape of SPP2 gene in liver and brain between human and mouse</a
+                                            >
+                                            <br />
+                                            From ENCODE Project Consortium. “An Integrated Encyclopedia of DNA Elements in the Human Genome.”
+                                            Nature 489, no. 7414 (September 2012): 57–74. https://doi.org/10.1038/nature11247.
+                                            and Yue, Feng, Yong Cheng, Alessandra Breschi, Jeff Vierstra, Weisheng Wu, Tyrone Ryba,
+                                            Richard Sandstrom, et al. “A Comparative Encyclopedia of DNA Elements in the Mouse Genome.”
+                                            Nature 515, no. 7527 (November 2014): 355–64. https://doi.org/10.1038/nature13992.
+                                        </li>
+                                        <li>
+                                            <a
+                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4a.session.json"
+                                                target="_blank"
+                                                >Human-specific candidate enhancer in cranial neural crest cells</a
+                                            >
+                                            <br />
+                                            From Prescott, Sara L, Rajini Srinivasan, Maria Carolina Marchetto, Irina Grishina,
+                                            Iñigo Narvaiza, Licia Selleri, Fred H Gage, Tomek Swigut, and Joanna Wysocka.
+                                            “Enhancer Divergence and Cis-Regulatory Evolution in the Human and Chimp Neural Crest.”
+                                            CELL 163, no. 1 (September 2015): 68–83. https://doi.org/10.1016/j.cell.2015.08.036.
+                                        </li>
+                                        <li>
+                                            <a
+                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4b.session.json"
+                                                target="_blank"
+                                                >3D genome structure difference between human and gorilla</a
+                                            >
+                                            <br />
+                                            From Yang, Yang, Yang Zhang, Bing Ren, Jesse R. Dixon, and Jian Ma.
+                                            “Comparing 3D Genome Organization in Multiple Species Using Phylo-HMRF.”
+                                            Cell Systems 8, no. 6 (June 26, 2019): 494-505.e14. https://doi.org/10.1016/j.cels.2019.05.011.
+                                        </li>
+                                        <li>
+                                            <a
                                                 href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5a.session.json"
                                                 target="_blank"
                                                 >human SVA_F insertion associated with potential human specific enhancer</a
