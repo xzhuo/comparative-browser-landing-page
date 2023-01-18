@@ -13,7 +13,7 @@
                                     <ol>
                                         <li>
                                             <a
-                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4a.session.json"
+                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5a.session.json"
                                                 target="_blank"
                                                 >human SVA_F insertion associated with potential human specific enhancer</a
                                             >
@@ -24,7 +24,7 @@
                                         </li>
                                         <li>
                                             <a
-                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4b.session.json"
+                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5b.session.json"
                                                 target="_blank"
                                                 >human-marmoset comparison: HERVH insertion in human associated with new
                                                 TAD boundary</a
@@ -37,7 +37,7 @@
                                         </li>
                                         <li>
                                             <a
-                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5.session.json"
+                                                href="https://epigenomegateway.wustl.edu/browser/?sessionFile=https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig6.session.json"
                                                 target="_blank">CTCF binding site evolution across mammals</a
                                             >
                                             <br />
