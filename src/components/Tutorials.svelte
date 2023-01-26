@@ -15,7 +15,7 @@
                                             <a
                                                 href="https://www.youtube.com/watch?v=yCBGsUNjQW0"
                                                 target="_blank"
-                                                >Selection species and assemblies in the WashU Comparative Epigenome Browser</a
+                                                >Selection species and assemblies in the WashU Comparative Epigenome Browser </a
                                             >
                                             <br />
                                             How to use the WashU Comparative Epigenome Browser to select species and assemblies.
@@ -24,7 +24,7 @@
                                             <a
                                                 href="https://www.youtube.com/watch?v=FvUtJGLWdRs"
                                                 target="_blank"
-                                                >How to add new data tracks to the WashU Comparative Epigenome Browser and basic navigation. </a
+                                                >How to add new data tracks to the WashU Comparative Epigenome Browser and basic navigation </a
                                             >
                                             <br />
                                             How to add new data tracks to the WashU Comparative Epigenome Browser from either a link or 
