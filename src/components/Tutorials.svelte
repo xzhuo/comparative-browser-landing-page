@@ -24,10 +24,10 @@
                                             <a
                                                 href="https://www.youtube.com/watch?v=FvUtJGLWdRs"
                                                 target="_blank"
-                                                >how to add new data tracks to the WashU Comparative Epigenome Browser and basic navigation. </a
+                                                >How to add new data tracks to the WashU Comparative Epigenome Browser and basic navigation. </a
                                             >
                                             <br />
-                                            how to add new data tracks to the WashU Comparative Epigenome Browser from either a link or 
+                                            How to add new data tracks to the WashU Comparative Epigenome Browser from either a link or 
                                                 a local file and perform basic navigation within the browser.
                                         </li>
                                     </ol>
