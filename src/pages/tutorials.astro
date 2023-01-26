@@ -1,0 +1,33 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import Citation from "../components/Tutorials.svelte";
+import Header from "../components/Header.svelte";
+import Footer from "../components/Footer.svelte";
+---
+
+<BaseLayout title="Team" theme="">
+    <Header
+        title="WashU Comparative Epigenome Browser"
+        links={[
+            {
+                label: "Home",
+                href: "/",
+            },
+            {
+                label: "Select genomes",
+                href: "/start",
+            },
+            {
+                label: "Documentation",
+                href: "/documentation",
+            },
+            // {
+            //   label: "How to cite",
+            //   href: "/cite"
+            // }
+        ]}
+    />
+
+    <Citation />
+    <Footer title="WashU Comparative Epigenome Browser" contact="xzhuo@wustl.edu" />
+</BaseLayout>
