@@ -5,7 +5,7 @@
                 <div class=" flex flex-col min-w-0 break-words bg-white w-full mb-6 shadow-xl rounded-lg mt-64">
                     <div class="px-6">
                         <div class="text-center mt-12">
-                            <h3 class="text-4xl font-semibold leading-normal text-gray-700 mb-2">Showcases</h3>
+                            <h3 class="text-4xl font-semibold leading-normal text-gray-700 mb-2">Video tutorials</h3>
                         </div>
                         <div class="mt-10 py-10 border-t">
                             <div class="flex flex-wrap justify-center">
@@ -18,7 +18,7 @@
                                                 >Selection species and assemblies in the WashU Comparative Epigenome Browser</a
                                             >
                                             <br />
-                                            How to use the WashU Comparative Epigenome browser to select species and assemblies.
+                                            How to use the WashU Comparative Epigenome Browser to select species and assemblies.
                                         </li>
                                         <li>
                                             <a
