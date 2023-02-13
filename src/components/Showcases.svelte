@@ -110,7 +110,7 @@
                                             From: Zhang, Yanxiao, Ting Li, Sebastian Preissl, Maria Luisa Amaral, Jonathan
                                             D Grinstein, Elie N Farah, Eugin Destici, et al. "Transcriptionally Active HERV-H
                                             Retrotransposons Demarcate Topologically Associating Domains in Human Pluripotent
-                                            Stem Cells." 164 (August 2019): 1110. https://doi.org/10.1038/s41588-019-0479-7.
+                                            Stem Cells." CELL, 164 (August 2019): 1110. https://doi.org/10.1038/s41588-019-0479-7.
                                             <br />
                                             <a
                                                 href="https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5b.session.json"
