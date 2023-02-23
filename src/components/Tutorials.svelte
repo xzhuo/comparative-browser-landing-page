@@ -30,6 +30,16 @@
                                             How to add new data tracks to the WashU Comparative Epigenome Browser from either a link or 
                                                 a local file and perform basic navigation within the browser.
                                         </li>
+                                        <li>
+                                            <a
+                                                href="https://www.youtube.com/watch?v=w9cafCD2cTk"
+                                                target="_blank"
+                                                >How to create a human-mouse multiple tracks comparison view </a
+                                            >
+                                            <br />
+                                            How to create a human-mouse multiple tracks comparison view  
+                                            by adding new data tracks using remote tracks.
+                                        </li>
                                     </ol>
                                 </div>
                             </div>

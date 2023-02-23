@@ -24,7 +24,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig3a.session.json', 'Fig3a.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig3a.session.json', '1.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -43,7 +43,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig3b.session.json', 'Fig3b.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig3b.session.json', '2.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -61,7 +61,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4a.session.json', 'Fig4a.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4a.session.json', '3.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -78,7 +78,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4b.session.json', 'Fig4b.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig4b.session.json', '4.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -95,7 +95,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5a.session.json', 'Fig5a.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5a.session.json', '5.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -114,7 +114,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5b.session.json', 'Fig5b.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig5b.session.json', '6.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -132,7 +132,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig6.session.json', 'Fig6.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig6.session.json', '7.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -150,7 +150,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig7a.session.json', 'Fig7a.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig7a.session.json', '8.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
@@ -166,7 +166,7 @@
                                             <br />
                                             <a 
                                                 href="#"
-                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig7b.session.json', 'Fig7b.session.json'); event.preventDefault()"
+                                                onclick="downloadFile('https://vizhub.wustl.edu/public/comparativeBrowser/demo/Fig7b.session.json', '9.session.json'); event.preventDefault()"
                                                 >Download Session File</a
                                             >
                                         </li>
