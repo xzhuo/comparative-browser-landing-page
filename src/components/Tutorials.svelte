@@ -37,7 +37,7 @@
                                                 >How to create a human-mouse multiple tracks comparison view </a
                                             >
                                             <br />
-                                            How to create a human-mouse multiple tracks comparison view  
+                                            How to create a human-mouse multiple tracks comparison view as shown in the Figure 3b from the preprint (https://www.biorxiv.org/content/10.1101/2022.11.29.518374v1) 
                                             by adding new data tracks using remote tracks.
                                         </li>
                                     </ol>
